@@ -1,1 +1,1 @@
-# C22-Epic-Archery-1.0
+# project-C22-template
